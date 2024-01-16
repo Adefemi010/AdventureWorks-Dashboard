@@ -10,12 +10,17 @@ Throughout this portfolio, I will walk you through each step of the data analysi
 
 Whether you're an analytics enthusiast, a fellow data professional, or someone interested in the intersection of data and business, I invite you to join me on this journey through the Adventure Works dataset. Together, let's unravel the stories hidden within the numbers and discover how data analysis can be a powerful tool in driving informed decision-making and strategy development.
 
+### Data Cleaning and Preparation
+In the initial preparation phase, I performed the following task
+  1. Data loading and inspection
+  2. Handling duplicate and missing values
+  3. Data cleaning and formatting
+
 ### Analysis and Visualization
 ![Adventure works 1](https://github.com/Adefemi010/AdventureWorks-Dashboard/assets/149597242/a1c3a755-f205-4cfc-bc3d-b423adcf1656)
 ![Adventureworks 3](https://github.com/Adefemi010/AdventureWorks-Dashboard/assets/149597242/b5ab281a-a1e5-46fe-bb98-ed407376f4cd)
 ![Adventureworks 4](https://github.com/Adefemi010/AdventureWorks-Dashboard/assets/149597242/c4d02eea-a537-4f35-85c0-c6a6219df5b7)
 ![Adventureworks 2](https://github.com/Adefemi010/AdventureWorks-Dashboard/assets/149597242/e445e0b0-8e38-4977-9bbf-ddc605f62b25)
-
 
 
 ### Results and Findings
